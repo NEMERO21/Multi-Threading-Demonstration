@@ -24,7 +24,9 @@ This repository contains code for analyzing matrix multiplication performance us
 1. threading.ipynb: Jupyter Notebook containing the code for analysis.
 2. requirements.txt: File listing all required Python packages and their versions.
 
-## CPU Screenshot
+## Graphs and Images
+![image](https://github.com/NEMERO21/Multi-Threading-Demonstration/assets/97607950/181f8d63-5de8-4998-8975-6c1189c06db4)
+
 ![image](https://github.com/NEMERO21/Multi-Threading-Demonstration/assets/97607950/5bf24d6a-f9fd-4ec3-bf5e-fc5a5ef23f45)
 
 
