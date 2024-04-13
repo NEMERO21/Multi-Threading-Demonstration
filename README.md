@@ -7,7 +7,7 @@ This repository contains code for analyzing the performance of matrix multiplica
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/matrix-multiplication-analysis.git
+   git clone [https://github.com/your_username/multi.git](https://github.com/NEMERO21/Multi-Threading-Demonstration)
 
 2. Install dependencies using pip:
    ```bash
