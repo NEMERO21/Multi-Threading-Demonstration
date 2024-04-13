@@ -30,4 +30,4 @@ This repository contains code for analyzing matrix multiplication performance us
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/NEMERO21/Multi-Threading-Demonstration/blob/main/LICENSE) - see the [LICENSE](https://github.com/NEMERO21/Multi-Threading-Demonstration/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/NEMERO21/Multi-Threading-Demonstration/blob/main/LICENSE) file for details.
