@@ -1,7 +1,7 @@
 # Multi-Threading-Demonstration
 
 
-This repository contains code for analyzing the performance of matrix multiplication using multiple threads. It calculates the average time taken for matrix multiplication with different numbers of threads, plots the execution time graph, and monitors CPU usage.
+This repository contains code for analyzing matrix multiplication performance using multiple threads. It calculates the average time taken for matrix multiplication with different numbers of threads, plots the execution time graph, and monitors CPU usage.
 
 ## Installation
 
@@ -23,6 +23,10 @@ This repository contains code for analyzing the performance of matrix multiplica
 
 1. threading.ipynb: Jupyter Notebook containing the code for analysis.
 2. requirements.txt: File listing all required Python packages and their versions.
+
+## CPU Screenshot
+![image](https://github.com/NEMERO21/Multi-Threading-Demonstration/assets/97607950/5bf24d6a-f9fd-4ec3-bf5e-fc5a5ef23f45)
+
 
 ## License
 
