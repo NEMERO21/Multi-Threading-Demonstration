@@ -15,7 +15,7 @@ This repository contains code for analyzing matrix multiplication performance us
 
 ## Usage
 
-1. Open the Jupyter Notebook matrix_multiplication_analysis.ipynb.
+1. Open the Jupyter Notebook threading.ipynb.
 2. Run each cell sequentially to execute the code and generate results.
 3. View the result table, execution time graph, and CPU usage graph.
 
